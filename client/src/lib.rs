@@ -7,5 +7,5 @@ pub mod instruction;
 
 /// Module defining the program id
 pub mod program {
-    solana_pubkey::declare_id!("4YpYoLVTQ8bxcne9GneN85RUXeN7pqGTwgPcY71ZL5gX");
+    solana_pubkey::declare_id!("GoATGVNeSXerFerPqTJ8hcED1msPWHHLxao2vwBYqowm");
 }
